@@ -1,3 +1,8 @@
+/**
+ * @author Suraj Singh Chahar
+ * @description Navigation bar component
+ */
+
 import { LogoIcon } from "./Icons";
 import { Toolbar } from "./Toolbar/Toolbar";
 

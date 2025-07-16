@@ -1,3 +1,8 @@
+/**
+ * @author Suraj Singh Chahar
+ * @description SEO component for page metadata
+ */
+
 import Head from "next/head";
 
 type PageSEOProps = {

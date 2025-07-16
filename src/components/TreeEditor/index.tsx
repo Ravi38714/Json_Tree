@@ -1,3 +1,8 @@
+/**
+ * @author Suraj Singh Chahar
+ * @description Tree editor component for JSON visualization
+ */
+
 import dynamic from "next/dynamic";
 import { useCallback, useState } from "react";
 import { Edge, EdgeProps, ElkRoot, NodeProps } from "reaflow";

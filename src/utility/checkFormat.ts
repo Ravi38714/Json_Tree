@@ -1,3 +1,8 @@
+/**
+ * @author Suraj Singh Chahar
+ * @description Utility function for checking and formatting JSON data
+ */
+
 export function isWebsiteUrl(websiteUrl: string) {
   const isWebsiteUrlRegex =
     /(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]+\.[^\s]{2,}|www\.[a-zA-Z0-9]+\.[^\s]{2,})/gi;

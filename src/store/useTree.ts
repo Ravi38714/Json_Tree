@@ -1,3 +1,8 @@
+/**
+ * @author Suraj Singh Chahar
+ * @description Tree visualization state management store
+ */
+
 import { create } from "zustand";
 import { ReactZoomPanPinchRef } from "react-zoom-pan-pinch";
 import { CanvasDirection } from "reaflow/dist/layout/elkLayout";

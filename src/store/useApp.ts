@@ -1,3 +1,8 @@
+/**
+ * @author Suraj Singh Chahar
+ * @description Main application state management store
+ */
+
 import { create } from "zustand";
 import debounce from "lodash.debounce";
 import { contentToJson } from "@/core/json/jsonAdapter";

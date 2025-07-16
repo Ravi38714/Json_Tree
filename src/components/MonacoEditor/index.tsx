@@ -1,3 +1,8 @@
+/**
+ * @author Suraj Singh Chahar
+ * @description Monaco editor component for JSON editing
+ */
+
 import Editor, { loader } from "@monaco-editor/react";
 import { useApp } from "@/store/useApp";
 import { useStored } from "@/store/useStored";

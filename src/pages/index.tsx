@@ -1,3 +1,8 @@
+/**
+ * @author Suraj Singh Chahar
+ * @description Main page component for JsonTree application
+ */
+
 import { useRouter } from "next/router";
 import dynamic from "next/dynamic";
 import { useEffect } from "react";
