@@ -18,7 +18,7 @@ A powerful visualization tool designed to effortlessly transform JSON data into 
 
 Empower your data exploration journey with JsonTree – simplify, visualize, understand.
 
-## License
+
 
 
 
