@@ -1,5 +1,5 @@
 /**
- * @author Suraj Singh Chahar
+ * @author Ravi Modanwal
  * @description Tree editor component for JSON visualization
  */
 

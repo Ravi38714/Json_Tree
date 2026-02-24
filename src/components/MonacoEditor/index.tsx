@@ -1,5 +1,5 @@
 /**
- * @author Suraj Singh Chahar
+ * @author Ravi Modanwal
  * @description Monaco editor component for JSON editing
  */
 

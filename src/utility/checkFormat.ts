@@ -1,5 +1,5 @@
 /**
- * @author Suraj Singh Chahar
+ * @author Ravi Modanwal
  * @description Utility function for checking and formatting JSON data
  */
 

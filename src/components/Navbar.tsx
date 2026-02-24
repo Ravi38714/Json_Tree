@@ -1,5 +1,5 @@
 /**
- * @author Suraj Singh Chahar
+ * @author Ravi Modanwal
  * @description Navigation bar component
  */
 
