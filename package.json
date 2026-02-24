@@ -1,5 +1,5 @@
 {
-  "name": "jsontree",
+  "name": "json-tree-visualizer",
   "version": "0.1.0",
   "private": true,
   "author": "Ravi Modanwal",
@@ -7,7 +7,7 @@
   "keywords": ["json", "visualization", "tree", "graph", "react", "nextjs"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/surajsinghchahar/jsontree.git"
+    "url": "https://github.com/Ravi38714/Json_Tree.git"
   },
   "scripts": {
     "dev": "next dev",
