@@ -2,7 +2,7 @@
   "name": "jsontree",
   "version": "0.1.0",
   "private": true,
-  "author": "Suraj Singh Chahar",
+  "author": "Ravi Modanwal",
   "description": "A powerful visualization tool designed to effortlessly transform JSON data into intuitive graph and tree representations",
   "keywords": ["json", "visualization", "tree", "graph", "react", "nextjs"],
   "repository": {

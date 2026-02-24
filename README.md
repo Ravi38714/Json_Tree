@@ -14,12 +14,6 @@ A powerful visualization tool designed to effortlessly transform JSON data into 
 
 ## Author
 
-**Suraj Singh Chahar**
+**Ravi Modanwal**
 
 Empower your data exploration journey with JsonTree – simplify, visualize, understand.
-
-
-
-
-
-
